@@ -1,0 +1,18 @@
+{
+    "tests": [
+      {
+        "file": "./index.js",
+        "timeout": 30000
+      }
+    ],
+    "browsers": [
+      {
+        "browserName": "Chrome",
+        "browser_version": "85.0",
+        "os": "Windows",
+        "os_version": "7",
+        "resolution": "1920x1080"
+      }
+ 
+    ]
+  }
